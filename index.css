@@ -43,14 +43,6 @@ h1.heading{
 	padding-bottom: 2cm;
 	font-size: 70px;
 }
-/*h2{
-	font-family: sans-serif;
-	letter-spacing: -2px;
-}
-h3{
-	font-family: fantasy;
-	letter-spacing: 3px;
-}*/
 p.p1{
 	font-family: monospace;
 	font-size: 20px;
@@ -74,7 +66,7 @@ p.small {
 	background-color: yellow;
 	cursor: pointer;
 	font-size: 13px;
-	padding: 9.5px;
+	padding: 10px;
 	border-radius: 8px;
 	-webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
